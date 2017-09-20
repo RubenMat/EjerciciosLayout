@@ -33,7 +33,7 @@
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Ejercicio4"
+        android:text="Ejercicio5"
         android:id="@+id/Ejercicio5"
         android:layout_below="@id/Ejercicio4"/>
 </RelativeLayout>
