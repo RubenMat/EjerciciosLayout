@@ -35,5 +35,5 @@
         android:layout_height="wrap_content"
         android:text="Ejercicio4"
         android:id="@+id/Ejercicio5"
-        android:layout_below="@id/Ejercicio4"/>-->
+        android:layout_below="@id/Ejercicio4"/>
 </RelativeLayout>
